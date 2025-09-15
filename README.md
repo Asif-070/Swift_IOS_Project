@@ -1,6 +1,6 @@
 # 🏋️‍♂️ Fitness Trainer iOS Application
 
-This is a basic **iOS application project** developed as part of coursework for (KUET). The app combines fitness training routines with the Pomodoro technique to provide users with structured and time-managed workouts.
+This is a basic **iOS application project** developed as part of coursework for KUET. The app combines fitness training routines with the Pomodoro technique to provide users with structured and time-managed workouts.
 
 ## 📱 Features
 
